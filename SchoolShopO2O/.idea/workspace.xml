@@ -1,0 +1,1603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SchoolShopO2O:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c33f8a8e-69fd-4a4f-aadd-5973f9a6457c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SchoolShopO2O" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/shopadmin/ShopManagementController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2560">
+              <caret line="37" column="37" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/ShopListController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="95" column="19" lean-forward="true" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shoplist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-866">
+              <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/shopadmin/ShopAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shoplist.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1568">
+              <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dto/ShopExecution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1024">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="XML File" />
+        <option value="HTML File" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Mybatis Mapper" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gender</find>
+      <find>shop</find>
+      <find>productoperation</find>
+      <find>owner</find>
+      <find>poi</find>
+      <find>data</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/impl/HeadLineServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/css/frontend/index.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/index.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shopdetail.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/shopdetail.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/shoplist.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/ShopListController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/common/common.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/FrontendController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/util/PathUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopoperation.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/ShopDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/productdetail.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/productdetail.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/ProductDetailController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/AreaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/ProductCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/ShopService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/ShopCategoryService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/util/EncoderUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/util/EncryptPropertyPlaceholderConfigurer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/local/login.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/local/login.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/local/logout.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/index.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/dao/LocalAuthDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/LocalAuthDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/dto/LocalAuthExecution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/exceptions/LocalAuthOperationException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/enums/LocalAuthStateEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/local/LocalController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/LocalAuthService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/service/impl/LocalAuthServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/util/MD5.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/local/changepsw.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/local/changepsw.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/entity/PersonInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/local/LocalAuthController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/web/shopadmin/ShopManagementController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/lzr/util/DESUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shoplist.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shoplist.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaeeView">
+    <option name="frameworksView" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven\apache-maven-3.5.3\repository" />
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SchoolShopO2O Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SchoolShopO2O Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="385" />
+    <option name="y" value="175" />
+    <option name="width" value="1540" />
+    <option name="height" value="895" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="enums" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="lzr" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="shopadmin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchoolShopO2O" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchoolShopO2O" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15358593" />
+    <property name="project.structure.side.proportion" value="0.32867134" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SchoolShopO2O\src\main\webapp\resources\js\local" />
+      <recent name="D:\SchoolShopO2O\src\main\java\com\lzr\util" />
+      <recent name="D:\SchoolShopO2O\src\main\java\com\lzr\service\impl" />
+      <recent name="D:\SchoolShopO2O\src\main\java\com\lzr\web\local" />
+      <recent name="D:\SchoolShopO2O\src\main\java\com\lzr\enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SchoolShopO2O\src\main\webapp\WEB-INF\html\local" />
+      <recent name="D:\SchoolShopO2O\src\main\java\com\lzr\util" />
+      <recent name="C:\SchoolShopO2O\src\main\webapp\resources\css\shop" />
+      <recent name="C:\SchoolShopO2O\src\main\webapp\WEB-INF\html\shop" />
+      <recent name="F:\Web project\SchoolShopO2O\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.SchoolShopO2O [tomcat7:run]">
+    <configuration name="DESUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzr.util.DESUtil" />
+      <module name="SchoolShopO2O" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImageUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzr.util.ImageUtil" />
+      <module name="SchoolShopO2O" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lzr.util.MD5" />
+      <module name="SchoolShopO2O" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzr.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryDaoTest.testABatchInsertProductCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolShopO2O" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzr.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzr.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.lzr.dao.ProductCategoryDaoTest" />
+      <option name="METHOD_NAME" value="testABatchInsertProductCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCategoryDaoTest.testCDeleteProductCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolShopO2O" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lzr.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lzr.dao" />
+      <option name="MAIN_CLASS_NAME" value="com.lzr.dao.ProductCategoryDaoTest" />
+      <option name="METHOD_NAME" value="testCDeleteProductCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolShopO2O [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 9" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="1.8">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="SchoolShopO2O:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SchoolShopO2O_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SchoolShopO2O:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_SchoolShopO2O" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51594" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51599" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ImageUtil" />
+      <item itemvalue="Application.DESUtil" />
+      <item itemvalue="Application.MD5" />
+      <item itemvalue="JUnit.ProductCategoryDaoTest.testABatchInsertProductCategory" />
+      <item itemvalue="JUnit.ProductCategoryDaoTest.testCDeleteProductCategory" />
+      <item itemvalue="Maven.SchoolShopO2O [tomcat7:run]" />
+      <item itemvalue="Tomcat Server.Tomcat 9" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DESUtil" />
+        <item itemvalue="Application.MD5" />
+        <item itemvalue="Application.ImageUtil" />
+        <item itemvalue="JUnit.ProductCategoryDaoTest.testCDeleteProductCategory" />
+        <item itemvalue="JUnit.ProductCategoryDaoTest.testABatchInsertProductCategory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c33f8a8e-69fd-4a4f-aadd-5973f9a6457c" name="Default Changelist" comment="" />
+      <created>1584461390791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584461390791</updated>
+      <workItem from="1584461393783" duration="1545000" />
+      <workItem from="1584462963065" duration="4303000" />
+      <workItem from="1584511526115" duration="20910000" />
+      <workItem from="1584632245761" duration="7199000" />
+      <workItem from="1584645519241" duration="2697000" />
+      <workItem from="1584769454145" duration="10516000" />
+      <workItem from="1584864450798" duration="21074000" />
+      <workItem from="1584943160067" duration="15322000" />
+      <workItem from="1585034580654" duration="19531000" />
+      <workItem from="1585203815084" duration="10347000" />
+      <workItem from="1585292211235" duration="11809000" />
+      <workItem from="1585380585897" duration="3698000" />
+      <workItem from="1585405153430" duration="1719000" />
+      <workItem from="1585549568863" duration="10010000" />
+      <workItem from="1585635309443" duration="12786000" />
+      <workItem from="1585683873892" duration="342000" />
+      <workItem from="1586267322054" duration="627000" />
+      <workItem from="1586497569634" duration="1588000" />
+      <workItem from="1586875680804" duration="4589000" />
+      <workItem from="1586922907748" duration="7034000" />
+      <workItem from="1587045203709" duration="726000" />
+      <workItem from="1587624037278" duration="10784000" />
+      <workItem from="1587712461339" duration="2049000" />
+      <workItem from="1587895488133" duration="12234000" />
+      <workItem from="1588673854718" duration="23139000" />
+      <workItem from="1588910105744" duration="7380000" />
+      <workItem from="1588917752607" duration="18873000" />
+      <workItem from="1589037837474" duration="18665000" />
+      <workItem from="1589128714395" duration="191000" />
+      <workItem from="1589180943272" duration="10326000" />
+      <workItem from="1589209612236" duration="11404000" />
+      <workItem from="1589339129664" duration="2524000" />
+      <workItem from="1590081552629" duration="1518000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShopCategoryDaoTest_testFindAll - 2020.03.23 at 22h 34m 01s.xml">
+      <configuration name="ShopCategoryDaoTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopCategoryDaoTest_testFindAll - 2020.03.23 at 22h 38m 16s.xml">
+      <configuration name="ShopCategoryDaoTest.testFindAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopCategoryDaoTest_testQueryShopCategory - 2020.03.23 at 22h 42m 59s.xml">
+      <configuration name="ShopCategoryDaoTest.testQueryShopCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testInsertShop - 2020.03.24 at 04h 44m 11s.xml">
+      <configuration name="ShopDaoTest.testInsertShop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testSelectShopById - 2020.03.25 at 05h 04m 31s.xml">
+      <configuration name="ShopDaoTest.testSelectShopById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShopDaoTest_testSelectShopById - 2020.03.25 at 05h 06m 45s.xml">
+      <configuration name="ShopDaoTest.testSelectShopById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDaoTest_testABatchInsertProductCategory - 2020.03.31 at 14h 44m 49s.xml">
+      <configuration name="ProductCategoryDaoTest.testABatchInsertProductCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDaoTest_testCDeleteProductCategory - 2020.04.01 at 00h 41m 36s.xml">
+      <configuration name="ProductCategoryDaoTest.testCDeleteProductCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDaoTest_testCDeleteProductCategory - 2020.04.01 at 00h 43m 02s.xml">
+      <configuration name="ProductCategoryDaoTest.testCDeleteProductCategory" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProductCategoryDaoTest_testCDeleteProductCategory - 2020.04.01 at 00h 47m 57s.xml">
+      <configuration name="ProductCategoryDaoTest.testCDeleteProductCategory" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="287459000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4965422" visible="true" weight="0.29959786" />
+      <window_info id="Structure" order="1" sideWeight="0.5020747" side_tool="true" weight="0.35254693" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5035461" side_tool="true" weight="0.23391421" />
+      <window_info id="Web" order="7" sideWeight="0.50345784" side_tool="true" weight="0.2191689" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.041493777" />
+      <window_info anchor="bottom" id="Spring" order="1" weight="0.32918397" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.20055325" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.25864455" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.47164592" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32918397" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32918397" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32918397" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.1922545" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.47989276" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="product" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/enums/LocalAuthStateEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/service/ShopService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/service/LocalAuthService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/service/impl/LocalAuthServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/WechatAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/local/LocalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/PersonInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/local/changepsw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3584">
+          <caret line="112" column="49" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/local/changepsw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="57" column="33" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/util/DegistUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/util/CodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dao/ProductDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dao/ShopDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3107">
+          <caret line="44" column="31" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dao/AreaDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dao/HeadLineDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/frontend/shoplist.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopmanagement.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopmanagement.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shopoperation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="109" column="25" selection-start-line="109" selection-start-column="25" selection-end-line="109" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/exceptions/ShopOperationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shoplist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/util/MD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/util/DESUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="56" column="49" lean-forward="true" selection-start-line="56" selection-start-column="49" selection-end-line="56" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="11" lean-forward="true" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/enums/ShopStateEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/service/impl/ShopServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="39" column="18" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/AreaDao.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/ShopDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4416">
+          <caret line="138" column="21" selection-start-line="137" selection-start-column="8" selection-end-line="138" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/shop/shopoperation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4128">
+          <caret line="129" column="13" selection-start-line="129" selection-start-column="13" selection-end-line="129" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lzr.entity.LocalAuth">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lzr.entity.LocalAuth</OriginalElement>
+          <nodes>
+            <node x="" y="">com.lzr.entity.LocalAuth</node>
+            <node x="" y="">com.lzr.entity.Shop</node>
+            <node x="" y="">com.lzr.entity.ProductCategory</node>
+            <node x="" y="">com.lzr.entity.ShopCategory</node>
+            <node x="" y="">com.lzr.entity.Product</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="319.0" y="316.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.lzr.web.shopadmin.ProductManagementController">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.lzr.web.shopadmin.ProductManagementController</OriginalElement>
+          <nodes>
+            <node x="450.0" y="955.5">com.lzr.web.local.LocalAuthController</node>
+            <node x="1780.75" y="153.5">com.lzr.service.LocalAuthService</node>
+            <node x="1912.0" y="615.0">com.lzr.entity.ShopCategory</node>
+            <node x="0.0" y="142.0">com.lzr.service.ShopService</node>
+            <node x="332.0" y="153.5">com.lzr.service.ProductCategoryService</node>
+            <node x="1099.0" y="1190.0">com.lzr.dao.LocalAuthDao</node>
+            <node x="407.2416666666667" y="615.0">org.springframework.web.bind.annotation.RequestMapping</node>
+            <node x="709.6829286325784" y="695.5">org.springframework.stereotype.Controller</node>
+            <node x="854.0" y="898.0">com.lzr.web.shopadmin.ProductManagementController</node>
+            <node x="1888.0" y="380.5">com.lzr.service.impl.LocalAuthServiceImpl</node>
+            <node x="1678.0" y="615.0">com.lzr.entity.Shop</node>
+            <node x="0.0" y="1190.0">com.lzr.dao.ProductDao</node>
+            <node x="1388.0" y="323.0">com.lzr.service.impl.ProductServiceImpl</node>
+            <node x="861.0" y="1190.0">com.lzr.entity.ProductCategory</node>
+            <node x="1102.5" y="0.0">org.springframework.stereotype.Service</node>
+            <node x="1506.0" y="1190.0">com.lzr.dao.ProductCategoryDao</node>
+            <node x="971.0" y="403.5">com.lzr.service.impl.ShopCategoryServiceImpl</node>
+            <node x="0.0" y="898.0">com.lzr.web.shopadmin.ShopManagementController</node>
+            <node x="1910.0" y="1190.0">com.lzr.dao.ShopCategoryDao</node>
+            <node x="551.0" y="1190.0">com.lzr.dao.ShopDao</node>
+            <node x="460.0" y="369.0">com.lzr.service.impl.ProductCategoryServiceImpl</node>
+            <node x="358.0" y="1190.0">com.lzr.entity.LocalAuth</node>
+            <node x="873.75" y="176.5">com.lzr.service.ShopCategoryService</node>
+            <node x="83.0" y="357.5">com.lzr.service.impl.ShopServiceImpl</node>
+            <node x="1262.75" y="142.0">com.lzr.service.ProductService</node>
+            <node x="1410.0" y="615.0">com.lzr.entity.Product</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.lzr.service.ProductService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-65.5" />
+              <point x="1502.75" y="112.0" />
+              <point x="1170.75" y="112.0" />
+              <point x="15.75" y="31.0" />
+            </edge>
+            <edge source="com.lzr.web.shopadmin.ShopManagementController" target="org.springframework.stereotype.Controller">
+              <point x="107.5" y="-123.5" />
+              <point x="322.5" y="878.0" />
+              <point x="732.3833333333334" y="878.0" />
+              <point x="-41.66666666666663" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.LocalAuthServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="102.0" y="-66.0" />
+              <point x="2194.0" y="298.0" />
+              <point x="2199.25" y="298.0" />
+              <point x="2199.25" y="82.0" />
+              <point x="1202.25" y="82.0" />
+              <point x="47.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.web.local.LocalAuthController" target="org.springframework.stereotype.Controller">
+              <point x="96.0" y="-66.0" />
+              <point x="738.0" y="878.0" />
+              <point x="774.05" y="878.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.ProductCategoryService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-54.0" />
+              <point x="577.5" y="102.0" />
+              <point x="1128.75" y="102.0" />
+              <point x="-26.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.ShopServiceImpl" target="com.lzr.service.ShopService">
+              <point x="-77.75" y="-89.0" />
+              <point x="160.75" y="298.0" />
+              <point x="155.5" y="298.0" />
+              <point x="0.0" y="65.5" />
+            </edge>
+            <edge source="com.lzr.service.impl.ProductServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="120.0" y="-123.5" />
+              <point x="1748.0" y="298.0" />
+              <point x="1753.25" y="298.0" />
+              <point x="1753.25" y="102.0" />
+              <point x="1181.25" y="102.0" />
+              <point x="26.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.web.shopadmin.ProductManagementController" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-127.75" y="-123.5" />
+              <point x="981.75" y="868.0" />
+              <point x="564.7416666666667" y="868.0" />
+              <point x="63.0" y="111.5" />
+            </edge>
+            <edge source="com.lzr.service.impl.ProductServiceImpl" target="com.lzr.service.ProductService">
+              <point x="-120.0" y="-123.5" />
+              <point x="1508.0" y="298.0" />
+              <point x="1502.75" y="298.0" />
+              <point x="0.0" y="65.5" />
+            </edge>
+            <edge source="com.lzr.service.ShopService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-65.5" />
+              <point x="155.5" y="82.0" />
+              <point x="1107.75" y="82.0" />
+              <point x="-47.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.ShopServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="77.75" y="-89.0" />
+              <point x="316.25" y="298.0" />
+              <point x="321.5" y="298.0" />
+              <point x="321.5" y="92.0" />
+              <point x="1118.25" y="92.0" />
+              <point x="-36.75" y="31.0" />
+            </edge>
+            <edge source="com.lzr.web.shopadmin.ShopManagementController" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-107.5" y="-123.5" />
+              <point x="107.5" y="868.0" />
+              <point x="438.7416666666667" y="868.0" />
+              <point x="-63.0" y="111.5" />
+            </edge>
+            <edge source="com.lzr.service.impl.ShopCategoryServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="92.0" y="-43.0" />
+              <point x="1247.0" y="298.0" />
+              <point x="1252.25" y="298.0" />
+              <point x="1252.25" y="122.0" />
+              <point x="1160.25" y="122.0" />
+              <point x="5.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.LocalAuthServiceImpl" target="com.lzr.service.LocalAuthService">
+              <point x="-102.0" y="-66.0" />
+              <point x="1990.0" y="298.0" />
+              <point x="1984.75" y="298.0" />
+              <point x="0.0" y="54.0" />
+            </edge>
+            <edge source="com.lzr.web.local.LocalAuthController" target="org.springframework.web.bind.annotation.RequestMapping">
+              <point x="-96.0" y="-66.0" />
+              <point x="546.0" y="868.0" />
+              <point x="501.7416666666667" y="868.0" />
+              <point x="0.0" y="111.5" />
+            </edge>
+            <edge source="com.lzr.service.impl.ShopCategoryServiceImpl" target="com.lzr.service.ShopCategoryService">
+              <point x="-92.0" y="-43.0" />
+              <point x="1063.0" y="298.0" />
+              <point x="1057.75" y="298.0" />
+              <point x="0.0" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.ShopCategoryService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-31.0" />
+              <point x="1057.75" y="122.0" />
+              <point x="1149.75" y="122.0" />
+              <point x="-5.25" y="31.0" />
+            </edge>
+            <edge source="com.lzr.web.shopadmin.ProductManagementController" target="org.springframework.stereotype.Controller">
+              <point x="127.75" y="-123.5" />
+              <point x="1237.25" y="858.0" />
+              <point x="815.7166666666667" y="858.0" />
+              <point x="41.66666666666663" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.ProductCategoryServiceImpl" target="org.springframework.stereotype.Service">
+              <point x="122.75" y="-77.5" />
+              <point x="828.25" y="298.0" />
+              <point x="833.5" y="298.0" />
+              <point x="833.5" y="112.0" />
+              <point x="1139.25" y="112.0" />
+              <point x="-15.75" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.LocalAuthService" target="org.springframework.stereotype.Service">
+              <point x="0.0" y="-54.0" />
+              <point x="1984.75" y="92.0" />
+              <point x="1191.75" y="92.0" />
+              <point x="36.75" y="31.0" />
+            </edge>
+            <edge source="com.lzr.service.impl.ProductCategoryServiceImpl" target="com.lzr.service.ProductCategoryService">
+              <point x="-122.75" y="-77.5" />
+              <point x="582.75" y="298.0" />
+              <point x="577.5" y="298.0" />
+              <point x="0.0" y="54.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5000000000000001" x="789.0" y="873.0" />
+          <SelectedNodes>
+            <node>org.springframework.stereotype.Controller</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/local/LocalAuthController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1184">
+          <caret line="56" column="51" selection-start-line="56" selection-start-column="51" selection-end-line="56" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/ShopCategory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/entity/LocalAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/frontend/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/dto/ShopExecution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1024">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/frontend/ShopListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="95" column="19" lean-forward="true" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/html/shop/shoplist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866">
+          <caret line="14" column="62" lean-forward="true" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/shopadmin/ShopManagementController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2560">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/js/frontend/shoplist.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="44" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/lzr/web/shopadmin/ShopAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SchoolShopO2O:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32867134" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (SchoolShopO2O)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32867134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SchoolShopO2O</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32867134" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

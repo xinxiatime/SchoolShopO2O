@@ -1,0 +1,360 @@
+2020-05-12 00:27:14.685[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:14.953[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 3(Integer), 3(Integer)
+2020-05-12 00:27:14.955[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 1
+2020-05-12 00:27:14.956[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:14.956[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:14.957[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.812[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.813[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 6(Integer), 3(Integer)
+2020-05-12 00:27:15.813[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.814[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.814[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.814[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.828[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.829[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 9(Integer), 3(Integer)
+2020-05-12 00:27:15.830[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.830[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.831[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.831[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.845[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.846[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 12(Integer), 3(Integer)
+2020-05-12 00:27:15.847[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.847[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.847[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.848[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.862[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.862[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 15(Integer), 3(Integer)
+2020-05-12 00:27:15.863[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.863[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.864[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.864[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.879[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.879[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 18(Integer), 3(Integer)
+2020-05-12 00:27:15.880[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.880[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.880[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.881[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.895[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.895[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 21(Integer), 3(Integer)
+2020-05-12 00:27:15.896[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.897[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.897[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.897[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:15.912[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:15.912[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 24(Integer), 3(Integer)
+2020-05-12 00:27:15.913[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:15.913[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:15.914[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:15.914[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:16.129[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:16.129[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 27(Integer), 3(Integer)
+2020-05-12 00:27:16.130[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:16.130[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:16.130[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:16.131[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:16.146[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:16.146[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 30(Integer), 3(Integer)
+2020-05-12 00:27:16.147[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:16.147[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:16.147[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:16.148[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:16.162[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:16.163[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 33(Integer), 3(Integer)
+2020-05-12 00:27:16.164[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:16.164[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:16.164[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:16.165[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 00:27:16.178[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 00:27:16.179[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 36(Integer), 3(Integer)
+2020-05-12 00:27:16.179[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 00:27:16.180[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 00:27:16.180[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 00:27:16.181[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 08:26:55.759[http-bio-8080-exec-7] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is null order by priority desc 
+2020-05-12 08:26:55.800[http-bio-8080-exec-7] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2020-05-12 08:26:55.820[http-bio-8080-exec-7] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 6
+2020-05-12 08:26:55.830[http-bio-8080-exec-7] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==>  Preparing: SELECT line_id, line_name, line_link, line_img, priority, enable_status, create_time, last_edit_time from tb_head_line WHERE enable_status = ? order by priority desc 
+2020-05-12 08:26:55.831[http-bio-8080-exec-7] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==> Parameters: 1(Integer)
+2020-05-12 08:26:55.833[http-bio-8080-exec-7] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - <==      Total: 4
+2020-05-12 10:06:59.183[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopList - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id order by priority desc limit ?,? 
+2020-05-12 10:06:59.182[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is not null and parent_id = ? order by priority desc 
+2020-05-12 10:06:59.204[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopList - ==> Parameters: 10(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:06:59.204[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 10(Long)
+2020-05-12 10:06:59.231[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2020-05-12 10:06:59.237[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopList - <==      Total: 2
+2020-05-12 10:06:59.243[http-bio-8080-exec-4] DEBUG com.lzr.dao.AreaDao.findAllArea - ==>  Preparing: select * from tb_area order by priority desc 
+2020-05-12 10:06:59.244[http-bio-8080-exec-4] DEBUG com.lzr.dao.AreaDao.findAllArea - ==> Parameters: 
+2020-05-12 10:06:59.245[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==>  Preparing: select count(1) FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id 
+2020-05-12 10:06:59.245[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==> Parameters: 10(Long), 1(Integer)
+2020-05-12 10:06:59.246[http-bio-8080-exec-4] DEBUG com.lzr.dao.AreaDao.findAllArea - <==      Total: 4
+2020-05-12 10:06:59.276[http-bio-8080-exec-2] DEBUG com.lzr.dao.ShopDao.queryShopCount - <==      Total: 1
+2020-05-12 10:07:03.136[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopList - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.area_id = ? and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id order by priority desc limit ?,? 
+2020-05-12 10:07:03.139[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopList - ==> Parameters: 10(Long), 5(Integer), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:07:03.143[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopList - <==      Total: 1
+2020-05-12 10:07:03.144[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==>  Preparing: select count(1) FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.area_id = ? and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id 
+2020-05-12 10:07:03.145[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==> Parameters: 10(Long), 5(Integer), 1(Integer)
+2020-05-12 10:07:03.147[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.queryShopCount - <==      Total: 1
+2020-05-12 10:07:05.569[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.selectByShopId - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc where s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id and s.shop_id = ? 
+2020-05-12 10:07:05.570[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.selectByShopId - ==> Parameters: 41(Long)
+2020-05-12 10:07:05.573[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:05.574[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:07:05.580[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 3
+2020-05-12 10:07:05.582[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:05.583[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:05.584[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopDao.selectByShopId - <==      Total: 1
+2020-05-12 10:07:05.589[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==>  Preparing: select product_category_id, product_category_name, priority, create_time, shop_id from tb_product_category where shop_id = ? order by priority desc 
+2020-05-12 10:07:05.591[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==> Parameters: 41(Long)
+2020-05-12 10:07:05.593[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:05.597[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - <==      Total: 2
+2020-05-12 10:07:08.239[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:08.242[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 3(Integer), 3(Integer)
+2020-05-12 10:07:08.246[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 1
+2020-05-12 10:07:08.247[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:08.248[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:08.249[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:08.590[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:08.592[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 6(Integer), 3(Integer)
+2020-05-12 10:07:08.593[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:08.595[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:08.596[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:08.598[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:08.626[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:08.627[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 9(Integer), 3(Integer)
+2020-05-12 10:07:08.629[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:08.630[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:08.631[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:08.632[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:08.659[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:08.660[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 12(Integer), 3(Integer)
+2020-05-12 10:07:08.662[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:08.662[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:08.663[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:08.663[http-bio-8080-exec-5] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:08.675[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:08.677[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 15(Integer), 3(Integer)
+2020-05-12 10:07:08.678[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:08.680[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:08.681[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:08.682[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:09.308[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:09.308[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 18(Integer), 3(Integer)
+2020-05-12 10:07:09.310[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:09.312[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:09.312[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:09.313[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:09.324[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:09.325[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 21(Integer), 3(Integer)
+2020-05-12 10:07:09.326[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:09.327[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:09.327[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:09.328[http-bio-8080-exec-6] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:09.344[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:09.345[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 24(Integer), 3(Integer)
+2020-05-12 10:07:09.346[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:09.347[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:07:09.347[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:07:09.348[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:10.209[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:10.210[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:07:10.261[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 3
+2020-05-12 10:07:10.262[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:10.263[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:10.265[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:10.859[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:10.859[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 3(Integer), 3(Integer)
+2020-05-12 10:07:10.862[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:10.863[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:10.864[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:10.866[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:10.892[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:10.893[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 6(Integer), 3(Integer)
+2020-05-12 10:07:10.895[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:10.896[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:10.896[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:10.899[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.154[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.155[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 9(Integer), 3(Integer)
+2020-05-12 10:07:11.159[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.160[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.160[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.161[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.174[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.175[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 12(Integer), 3(Integer)
+2020-05-12 10:07:11.178[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.179[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.179[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.181[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.207[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.208[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 15(Integer), 3(Integer)
+2020-05-12 10:07:11.211[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.212[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.212[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.214[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.242[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.244[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 18(Integer), 3(Integer)
+2020-05-12 10:07:11.249[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.250[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.251[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.259[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.307[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.308[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 21(Integer), 3(Integer)
+2020-05-12 10:07:11.311[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.312[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.312[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.314[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.589[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.590[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 24(Integer), 3(Integer)
+2020-05-12 10:07:11.593[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.594[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.595[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.597[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.624[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.625[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 27(Integer), 3(Integer)
+2020-05-12 10:07:11.628[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.629[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.629[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.631[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.657[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.658[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 30(Integer), 3(Integer)
+2020-05-12 10:07:11.660[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.661[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.661[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.663[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.673[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.674[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 33(Integer), 3(Integer)
+2020-05-12 10:07:11.677[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.678[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.678[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.680[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.691[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.691[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 36(Integer), 3(Integer)
+2020-05-12 10:07:11.694[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.694[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.695[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.697[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.707[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.708[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 39(Integer), 3(Integer)
+2020-05-12 10:07:11.710[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.711[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.711[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.713[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:11.721[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:11.722[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 19(Long), 1(Integer), 42(Integer), 3(Integer)
+2020-05-12 10:07:11.727[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:11.728[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:11.729[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 19(Long), 1(Integer)
+2020-05-12 10:07:11.731[http-bio-8080-exec-7] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:12.525[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:12.525[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 20(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:07:12.527[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 1
+2020-05-12 10:07:12.527[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:12.527[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 20(Long), 1(Integer)
+2020-05-12 10:07:12.529[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:12.542[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:12.542[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 20(Long), 1(Integer), 3(Integer), 3(Integer)
+2020-05-12 10:07:12.543[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 0
+2020-05-12 10:07:12.544[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and product_category_id = ? and enable_status = ? 
+2020-05-12 10:07:12.544[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 20(Long), 1(Integer)
+2020-05-12 10:07:12.545[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:15.047[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is null order by priority desc 
+2020-05-12 10:07:15.048[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2020-05-12 10:07:15.052[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 6
+2020-05-12 10:07:15.056[http-bio-8080-exec-4] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==>  Preparing: SELECT line_id, line_name, line_link, line_img, priority, enable_status, create_time, last_edit_time from tb_head_line WHERE enable_status = ? order by priority desc 
+2020-05-12 10:07:15.096[http-bio-8080-exec-4] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==> Parameters: 1(Integer)
+2020-05-12 10:07:15.098[http-bio-8080-exec-4] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - <==      Total: 4
+2020-05-12 10:07:21.309[http-bio-8080-exec-6] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - ==>  Preparing: SELECT l.local_auth_id, l.username, l.password, l.create_time, l.last_edit_time, p.user_id, p.name, p.gender, p.email, p.profile_img, p.user_type, p.create_time, p.last_edit_time, p.enable_status FROM tb_local_auth l LEFT JOIN tb_person_info p ON l.user_id = p.user_id WHERE l.username = ? AND l.password = ? 
+2020-05-12 10:07:21.310[http-bio-8080-exec-6] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - ==> Parameters: ziran(String), s05bse6q2qlb9qblls96s592y55y556s(String)
+2020-05-12 10:07:21.312[http-bio-8080-exec-6] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - <==      Total: 1
+2020-05-12 10:07:21.399[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopList - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.owner_id = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id order by priority desc limit ?,? 
+2020-05-12 10:07:21.400[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopList - ==> Parameters: 1(Long), 0(Integer), 100(Integer)
+2020-05-12 10:07:21.414[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopList - <==      Total: 10
+2020-05-12 10:07:21.415[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==>  Preparing: select count(1) FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.owner_id = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id 
+2020-05-12 10:07:21.416[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==> Parameters: 1(Long)
+2020-05-12 10:07:21.427[http-bio-8080-exec-6] DEBUG com.lzr.dao.ShopDao.queryShopCount - <==      Total: 1
+2020-05-12 10:07:29.765[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:07:29.766[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 0(Integer), 999(Integer)
+2020-05-12 10:07:29.774[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 4
+2020-05-12 10:07:29.775[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? 
+2020-05-12 10:07:29.776[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long)
+2020-05-12 10:07:29.777[http-bio-8080-exec-4] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:07:33.461[http-bio-8080-exec-9] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==>  Preparing: select product_category_id, product_category_name, priority, create_time, shop_id from tb_product_category where shop_id = ? order by priority desc 
+2020-05-12 10:07:33.462[http-bio-8080-exec-9] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==> Parameters: 41(Long)
+2020-05-12 10:07:33.465[http-bio-8080-exec-9] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - <==      Total: 2
+2020-05-12 10:08:29.169[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current relativeAddr is :/upload/images/item/shop/41/2020051210082929849.jpg
+2020-05-12 10:08:29.169[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current complete addr is :D:/projectdev/image/upload/images/item/shop/41/2020051210082929849.jpg
+2020-05-12 10:08:29.169[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - basePath is :/D:/SchoolShopO2O/target/classes/
+2020-05-12 10:08:29.641[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.insertProduct - ==>  Preparing: INSERT INTO tb_product(product_name,product_desc,img_addr, normal_price,promotion_price,priority,create_time, last_edit_time,enable_status,product_category_id, shop_id) VALUES (?,?,?, ?,?,?,?, ?,?,?, ?) 
+2020-05-12 10:08:29.642[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.insertProduct - ==> Parameters: JavaWEb(String), Javaweb(String), /upload/images/item/shop/41/2020051210082929849.jpg(String), 30(String), 23(String), 13(Integer), 2020-05-12 10:08:29.166(Timestamp), 2020-05-12 10:08:29.166(Timestamp), 1(Integer), 19(Long), 41(Long)
+2020-05-12 10:08:29.751[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.insertProduct - <==    Updates: 1
+2020-05-12 10:08:29.757[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current relativeAddr is :/upload/images/item/shop/41/2020051210082919525.jpg
+2020-05-12 10:08:29.757[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current complete addr is :D:/projectdev/image/upload/images/item/shop/41/2020051210082919525.jpg
+2020-05-12 10:08:29.926[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current relativeAddr is :/upload/images/item/shop/41/2020051210082960422.jpg
+2020-05-12 10:08:29.926[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current complete addr is :D:/projectdev/image/upload/images/item/shop/41/2020051210082960422.jpg
+2020-05-12 10:08:30.179[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current relativeAddr is :/upload/images/item/shop/41/2020051210083014050.jpg
+2020-05-12 10:08:30.179[http-bio-8080-exec-3] DEBUG com.lzr.util.ImageUtil - current complete addr is :D:/projectdev/image/upload/images/item/shop/41/2020051210083014050.jpg
+2020-05-12 10:08:30.351[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductImgDao.batchInsertProductImg - ==>  Preparing: INSERT INTO tb_product_img(img_addr,img_desc,priority, create_time,product_id) VALUES ( ?, ?, ?, ?, ? ) , ( ?, ?, ?, ?, ? ) , ( ?, ?, ?, ?, ? ) 
+2020-05-12 10:08:30.351[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductImgDao.batchInsertProductImg - ==> Parameters: /upload/images/item/shop/41/2020051210082919525.jpg(String), null, null, 2020-05-12 10:08:29.926(Timestamp), 30(Long), /upload/images/item/shop/41/2020051210082960422.jpg(String), null, null, 2020-05-12 10:08:30.179(Timestamp), 30(Long), /upload/images/item/shop/41/2020051210083014050.jpg(String), null, null, 2020-05-12 10:08:30.348(Timestamp), 30(Long)
+2020-05-12 10:08:30.355[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductImgDao.batchInsertProductImg - <==    Updates: 3
+2020-05-12 10:08:32.157[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:08:32.158[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 0(Integer), 999(Integer)
+2020-05-12 10:08:32.172[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 5
+2020-05-12 10:08:32.173[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? 
+2020-05-12 10:08:32.174[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long)
+2020-05-12 10:08:32.175[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:08:51.259[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is null order by priority desc 
+2020-05-12 10:08:51.259[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2020-05-12 10:08:51.265[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 6
+2020-05-12 10:08:51.266[http-bio-8080-exec-3] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==>  Preparing: SELECT line_id, line_name, line_link, line_img, priority, enable_status, create_time, last_edit_time from tb_head_line WHERE enable_status = ? order by priority desc 
+2020-05-12 10:08:51.266[http-bio-8080-exec-3] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==> Parameters: 1(Integer)
+2020-05-12 10:08:51.268[http-bio-8080-exec-3] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - <==      Total: 4
+2020-05-12 10:08:52.372[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is not null and parent_id = ? order by priority desc 
+2020-05-12 10:08:52.373[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopList - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id order by priority desc limit ?,? 
+2020-05-12 10:08:52.373[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 10(Long)
+2020-05-12 10:08:52.373[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopList - ==> Parameters: 10(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:08:52.375[http-bio-8080-exec-3] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 2
+2020-05-12 10:08:52.375[http-bio-8080-exec-3] DEBUG com.lzr.dao.AreaDao.findAllArea - ==>  Preparing: select * from tb_area order by priority desc 
+2020-05-12 10:08:52.376[http-bio-8080-exec-3] DEBUG com.lzr.dao.AreaDao.findAllArea - ==> Parameters: 
+2020-05-12 10:08:52.377[http-bio-8080-exec-3] DEBUG com.lzr.dao.AreaDao.findAllArea - <==      Total: 4
+2020-05-12 10:08:52.379[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopList - <==      Total: 2
+2020-05-12 10:08:52.380[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==>  Preparing: select count(1) FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.shop_category_id in (select shop_category_id from tb_shop_category WHERE parent_id = ?) and s.enable_status = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id 
+2020-05-12 10:08:52.381[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==> Parameters: 10(Long), 1(Integer)
+2020-05-12 10:08:52.381[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.queryShopCount - <==      Total: 1
+2020-05-12 10:08:53.199[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.selectByShopId - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc where s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id and s.shop_id = ? 
+2020-05-12 10:08:53.199[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.selectByShopId - ==> Parameters: 41(Long)
+2020-05-12 10:08:53.199[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? and enable_status = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:08:53.200[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 1(Integer), 0(Integer), 3(Integer)
+2020-05-12 10:08:53.201[http-bio-8080-exec-4] DEBUG com.lzr.dao.ShopDao.selectByShopId - <==      Total: 1
+2020-05-12 10:08:53.202[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 3
+2020-05-12 10:08:53.202[http-bio-8080-exec-4] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==>  Preparing: select product_category_id, product_category_name, priority, create_time, shop_id from tb_product_category where shop_id = ? order by priority desc 
+2020-05-12 10:08:53.203[http-bio-8080-exec-4] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==> Parameters: 41(Long)
+2020-05-12 10:08:53.204[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? and enable_status = ? 
+2020-05-12 10:08:53.205[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long), 1(Integer)
+2020-05-12 10:08:53.206[http-bio-8080-exec-4] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - <==      Total: 2
+2020-05-12 10:08:53.207[http-bio-8080-exec-3] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:08:57.218[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductById - ==>  Preparing: SELECT p.product_id, p.product_name, p.product_desc, p.img_addr, p.normal_price, p.promotion_price, p.priority, p.create_time, p.last_edit_time, p.enable_status, p.point, p.product_category_id, p.shop_id, pm.product_img_id, pm.img_addr AS detail_img, pm.img_desc, pm.priority, pm.create_time FROM tb_product p LEFT JOIN tb_product_img pm ON p.product_id = pm.product_id WHERE p.product_id = ? ORDER BY pm.priority DESC 
+2020-05-12 10:08:57.218[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductById - ==> Parameters: 30(Long)
+2020-05-12 10:08:57.226[http-bio-8080-exec-10] DEBUG com.lzr.dao.ProductDao.queryProductById - <==      Total: 3
+2020-05-12 10:12:20.368[http-bio-8080-exec-8] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==>  Preparing: select shop_category_id, shop_category_name, shop_category_desc, shop_category_img, priority, create_time, last_edit_time, parent_id from tb_shop_category WHERE parent_id is null order by priority desc 
+2020-05-12 10:12:20.370[http-bio-8080-exec-8] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - ==> Parameters: 
+2020-05-12 10:12:20.378[http-bio-8080-exec-8] DEBUG com.lzr.dao.ShopCategoryDao.queryShopCategory - <==      Total: 6
+2020-05-12 10:12:20.379[http-bio-8080-exec-8] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==>  Preparing: SELECT line_id, line_name, line_link, line_img, priority, enable_status, create_time, last_edit_time from tb_head_line WHERE enable_status = ? order by priority desc 
+2020-05-12 10:12:20.380[http-bio-8080-exec-8] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - ==> Parameters: 1(Integer)
+2020-05-12 10:12:20.384[http-bio-8080-exec-8] DEBUG com.lzr.dao.HeadLineDao.queryHeadLine - <==      Total: 4
+2020-05-12 10:12:24.339[http-bio-8080-exec-1] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - ==>  Preparing: SELECT l.local_auth_id, l.username, l.password, l.create_time, l.last_edit_time, p.user_id, p.name, p.gender, p.email, p.profile_img, p.user_type, p.create_time, p.last_edit_time, p.enable_status FROM tb_local_auth l LEFT JOIN tb_person_info p ON l.user_id = p.user_id WHERE l.username = ? AND l.password = ? 
+2020-05-12 10:12:24.340[http-bio-8080-exec-1] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - ==> Parameters: ziran(String), s05bse6q2qlb9qblls96s592y55y556s(String)
+2020-05-12 10:12:24.342[http-bio-8080-exec-1] DEBUG c.lzr.dao.LocalAuthDao.queryLocalByUserNameAndPwd - <==      Total: 1
+2020-05-12 10:12:24.393[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopList - ==>  Preparing: select s.shop_id, s.shop_name, s.shop_desc, s.shop_addr, s.phone, s.shop_img, s.priority, s.create_time, s.last_edit_time, s.enable_status, s.advice, a.area_id, a.area_name, sc.shop_category_id, sc.shop_category_name FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.owner_id = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id order by priority desc limit ?,? 
+2020-05-12 10:12:24.394[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopList - ==> Parameters: 1(Long), 0(Integer), 100(Integer)
+2020-05-12 10:12:24.405[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopList - <==      Total: 10
+2020-05-12 10:12:24.407[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==>  Preparing: select count(1) FROM tb_shop s, tb_area a, tb_shop_category sc WHERE s.owner_id = ? and s.area_id=a.area_id and s.shop_category_id = sc.shop_category_id 
+2020-05-12 10:12:24.407[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopCount - ==> Parameters: 1(Long)
+2020-05-12 10:12:24.408[http-bio-8080-exec-9] DEBUG com.lzr.dao.ShopDao.queryShopCount - <==      Total: 1
+2020-05-12 10:12:26.823[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductList - ==>  Preparing: SELECT product_id, product_name, product_desc, img_addr, normal_price, promotion_price, priority, create_time, last_edit_time, enable_status, point, product_category_id, shop_id FROM tb_product WHERE shop_id = ? ORDER BY priority DESC LIMIT ?,?; 
+2020-05-12 10:12:26.824[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductList - ==> Parameters: 41(Long), 0(Integer), 999(Integer)
+2020-05-12 10:12:26.825[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductList - <==      Total: 5
+2020-05-12 10:12:26.825[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==>  Preparing: SELECT count(1) FROM tb_product WHERE shop_id = ? 
+2020-05-12 10:12:26.826[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductCount - ==> Parameters: 41(Long)
+2020-05-12 10:12:26.826[http-bio-8080-exec-9] DEBUG com.lzr.dao.ProductDao.queryProductCount - <==      Total: 1
+2020-05-12 10:12:29.551[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==>  Preparing: select product_category_id, product_category_name, priority, create_time, shop_id from tb_product_category where shop_id = ? order by priority desc 
+2020-05-12 10:12:29.551[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==> Parameters: 41(Long)
+2020-05-12 10:12:29.555[http-bio-8080-exec-3] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - <==      Total: 2

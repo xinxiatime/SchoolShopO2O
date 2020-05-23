@@ -1,0 +1,5 @@
+2020-04-01 00:41:36.024[main] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==>  Preparing: select product_category_id, product_category_name, priority, create_time, shop_id from tb_product_category where shop_id = ? order by priority desc 
+2020-04-01 00:41:36.048[main] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - ==> Parameters: 1(Long)
+2020-04-01 00:41:36.068[main] DEBUG c.l.d.ProductCategoryDao.quaryProductCategoryList - <==      Total: 2
+2020-04-01 00:43:02.158[main] DEBUG c.lzr.dao.ProductCategoryDao.deleteProductCategory - ==>  Preparing: delete from tb_product_category where product_category_id = ? and shop_id = ? 
+2020-04-01 00:47:56.887[main] DEBUG c.lzr.dao.ProductCategoryDao.deleteProductCategory - ==>  Preparing: delete from tb_product_category where product_category_id = ? and shop_id = ? 
